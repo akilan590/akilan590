@@ -193,4 +193,4 @@ A decentralized application enabling secure blockchain-based transactions throug
 ---
 
 ⭐ **Thanks for visiting!**  
-☕ *Java-first full-stack development with secure systems and Web3 innovation.*
+
