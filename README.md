@@ -160,17 +160,6 @@ A decentralized application enabling secure blockchain-based transactions throug
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akilan590&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akilan590&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akilan590&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
