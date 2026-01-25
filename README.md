@@ -97,26 +97,68 @@ I build secure Java-based backend systems, end-to-end applications, and blockcha
 
 ## 📌 Key Projects
 
-### 🔐 Secure Java Backend API
-- Spring Boot + Spring Security
-- JWT-based authentication
-- Role-based access control
-- PostgreSQL integration
-- Clean layered architecture
+## 🔐 JWT-Secured Backend API
 
-### 🔗 Blockchain Transaction Application
-- Solidity smart contracts
-- Secure transaction handling
-- Wallet integration
-- End-to-end DApp workflow
+**Tech Stack:**  
+Java 17 · Spring Boot · Spring Security · JWT · PostgreSQL · REST APIs
 
-### 🤖 AI Deepfake Detection System
-- Java-based backend APIs
-- Secure file handling
-- ML model integration
-- Scalable system design
+### 📌 Overview
+A secure RESTful backend application implementing JWT-based authentication and authorization with user-specific data access.
+
+### ✨ Key Features
+- JWT-based authentication with token expiration
+- User registration and login APIs
+- Role-based access control (RBAC)
+- Protected CRUD APIs with authorization checks
+- User-specific data isolation
+- PostgreSQL integration using Spring Data JPA
+- Clean layered architecture (Controller, Service, Repository)
 
 ---
+
+## 🤖 AI Chat Assistant
+
+**Tech Stack:**  
+Google Gemini API · JavaScript · Backend API Integration
+
+### 📌 Overview
+An AI-powered chat assistant that interacts with users by integrating Google's Gemini API for intelligent and context-aware responses.
+
+### ✨ Key Features
+- Integrated Google Gemini API for AI responses
+- Prompt engineering for accurate outputs
+- Secure API key handling
+- Backend request/response processing
+- Error handling for reliable AI interaction
+- Scalable and modular integration design
+
+---
+
+## 🔗 Blockchain Transaction Application
+
+**Tech Stack:**  
+Solidity · Web3 · Smart Contracts · Wallet Integration · DApp
+
+### 📌 Overview
+A decentralized application enabling secure blockchain-based transactions through smart contracts and wallet integration.
+
+### ✨ Key Features
+- Solidity smart contracts for transaction logic
+- Secure transaction execution on blockchain
+- Wallet integration (MetaMask)
+- Smart contract interaction from application layer
+- End-to-end decentralized application workflow
+
+---
+
+## 🎯 Highlights
+- Strong focus on **backend security & system design**
+- Real-world **AI API integration**
+- Practical **Web3 & blockchain development**
+- Built with scalability, security, and clean code principles
+
+---
+
 
 ## 📊 GitHub Stats
 
