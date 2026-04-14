@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Akilan N 👋</h1>
+<h1 align="center">Hi, I'm Akilan  👋</h1>
 
 <h3 align="center">☕ Java Backend Developer · 🔐 API Security Engineer · 🤖 AI Integrator · 🇮🇳 Chennai, India</h3>
 
@@ -52,57 +52,11 @@ I build **production-grade secure backend systems** — not just CRUD apps. My f
 ![Solidity](https://img.shields.io/badge/Solidity-Smart_Contracts-black?style=flat-square&logo=solidity)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-Web3-blueviolet?style=flat-square)
 
----
-
-## 🔥 Featured Projects
-
-### 🛡️ [API Security Agent](https://github.com/akilan590/api-security-agent)
-> **Production-grade API Security middleware — built like a mini WAF**
-
-A real-time threat detection system that automatically identifies and blocks malicious API requests before they reach your backend.
-
-**What it does:**
-- 🚦 **Rate Limiting** — 100 req/min per IP using RateLimitFilter
-- 🧪 **Attack Detection** — SQL injection + XSS via SecurityFilter
-- 🔑 **JWT Validation** — API key + token auth via JwtAuthenticationFilter
-- 🤖 **AI-Powered Analysis** — Spring AI + Ollama llama3 detects unknown attack patterns
-- 📊 **Security Dashboard** — Real-time attack logs, stats, IP filtering (HTML/CSS/JS)
-- 🐳 **Dockerized** — Docker Compose with separate app + PostgreSQL containers
-
-**Tech:** `Java 21` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Spring AI` `Ollama` `Docker`
 
 ---
 
-### 🔒 [JWT-Secured Backend API](https://github.com/akilan590/JWT-Secured-Backend-API)
-> **Production-ready authentication system with full RBAC**
 
-Secure RESTful backend with JWT-based auth, role-based access control, and protected CRUD endpoints.
 
-**What it does:**
-- 👤 User registration, login, and token-based session management
-- 🔐 Role-based authorization — Admin vs User access levels
-- 🗄️ PostgreSQL via Spring Data JPA with user-specific data access
-- ⏱️ Token expiration, session timeout, and stateless auth
-
-**Tech:** `Java 17` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `REST APIs`
-
----
-
-### 🤖 [AI Chat Assistant](https://github.com/akilan590/Ai-Chat-Assistant)
-> **Intelligent chatbot powered by Google Gemini API**
-
-Real-time AI responses with a modern React UI, prompt engineering, and robust error handling.
-
-**Tech:** `React` `Google Gemini API` `JavaScript` `Bootstrap` `Lottie`
-
----
-
-### 🔗 [Web3 Encrypted Storage DApp](https://github.com/akilan590/Web3-encrypted-storage-Dapp)
-> **Privacy-focused decentralized file storage on IPFS**
-
-Upload images to IPFS via Pinata and share view-only access with specific wallet addresses via smart contracts.
-
-**Tech:** `Solidity` `React` `Ethers.js` `IPFS` `Pinata` `Hardhat`
 
 ---
 
