@@ -92,7 +92,7 @@ I build **production-grade secure backend systems** — not just CRUD apps. My f
 
 ```
 Role        → Java Backend Engineer / Security Engineer
-Type        → Full-time (available next semester)
+Type        → Full-time 
 Startups    → Fintech, Cybersecurity, SaaS 
 Salary      → Open to discussion based on role
 ```
