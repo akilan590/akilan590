@@ -1,121 +1,104 @@
-<h1 align="center">Hi, I'm Akilan  👋</h1>
+<h1 align="center">Hi there, I'm Akilan  👋</h1>
 
-<h3 align="center">☕ Java Backend Developer · 🔐 API Security Engineer · 🤖 AI Integrator · 🇮🇳 Chennai, India</h3>
+<h3 align="center">Java Backend Developer | Spring Boot & Security | Building AI-Powered Secure Systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akilan1"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:akilan9042@gmail.com"><img src="https://img.shields.io/badge/Email-akilan9042@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/akilan590"><img src="https://img.shields.io/badge/GitHub-akilan590-black?style=for-the-badge&logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=akilan590&style=for-the-badge&color=brightgreen" />
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akilan9042@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm a **Java Backend Developer** specializing in **API Security and Threat Detection**, currently pursuing B.E. at Veltech Multitech Engineering College (2023–2027).
-
-I build **production-grade secure backend systems** — not just CRUD apps. My flagship project is an **API Security Agent** that functions like a mini WAF, detecting SQL injection, XSS, brute force, and DDoS attacks in real time using **AI-powered analysis with Spring AI + Ollama llama3**.
-
-- 🔐 Deep expertise in **JWT authentication, Spring Security
-- 🤖 Hands-on with **AI integration** — Spring AI, Ollama, Google Gemini API
-- 🐳 Comfortable with **Docker containerization and deployment**
-- 🔗 Also builds **Web3 & Blockchain DApps** with Solidity + Ethers.js
-- 🎯 Seeking **Java Backend / Security Engineer** roles at product startups
+- 🎓 Pursuing **B.E. in Computer Science Engineering** at Veltech Multitech Engineering College *(2023 – 2027)*
+- 💻 Results-driven **Java Backend Developer** with hands-on experience building secure, scalable REST APIs using **Spring Boot** and **Spring Security**
+- 🔐 Proficient in **JWT authentication**, **Role-Based Access Control (RBAC)**, and **OWASP Top 10** security practices
+- 🤖 Designed and developed an **AI-powered API Security Agent** featuring real-time threat detection using **Spring AI** and **Ollama (Llama 3)**
+- 🌱 Actively exploring the intersection of **AI and backend security engineering**
+- 🎯 Seeking an **entry-level backend developer role** to apply security-first development skills in a collaborative engineering team
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### ☕ Backend & Security
-![Java](https://img.shields.io/badge/Java_21-orange?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen?style=flat-square&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-green?style=flat-square&logo=springsecurity)
-![JWT](https://img.shields.io/badge/JWT_Auth-black?style=flat-square&logo=jsonwebtokens)
-![REST API](https://img.shields.io/badge/REST_APIs-blue?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🤖 AI Integration
-![Spring AI](https://img.shields.io/badge/Spring_AI-brightgreen?style=flat-square&logo=spring)
-![Ollama](https://img.shields.io/badge/Ollama_llama3-black?style=flat-square)
-![Gemini API](https://img.shields.io/badge/Google_Gemini_API-blue?style=flat-square&logo=google)
-
-### 🐳 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-red?style=flat-square&logo=apachemaven)
-![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman&logoColor=white)
-
-### 🌐 Frontend & Web3
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-Smart_Contracts-black?style=flat-square&logo=solidity)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-Web3-blueviolet?style=flat-square)
-
-
----
-
-
-
-
----
-
-## 🔐 Security Expertise
-
-```
-✅ OWASP Top 10 — Implemented defenses in production projects
-✅ SQL Injection Detection — Pattern-based + AI analysis
-✅ XSS Prevention — Input sanitization & output encoding
-✅ Rate Limiting — IP-based throttling (100 req/min)
-✅ JWT Security — Stateless auth, expiry, blacklisting, RBAC
-✅ API Key Validation — Multi-layer authentication
-✅ Brute Force Protection — Failed attempt tracking & blocking
-✅ Docker Security — Containerized isolation
-```
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akilan590&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilan590&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+**Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akilan590&theme=tokyonight&hide_border=true" width="60%" />
+**Security & Authentication**
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rate%20Limiting-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLi%20%2F%20XSS%20Prevention-red?style=flat-square" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**AI & Integrations**
+<p>
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama%203-0467DF?style=flat-square&logo=meta&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Tools & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 🎯 What I'm Looking For
+### 🏆 Key Achievements
 
-```
-Role        → Java Backend Engineer / Security Engineer
-Type        → Full-time 
-Startups    → Fintech, Cybersecurity, SaaS 
-Salary      → Open to discussion based on role
-```
+- 🧠 Independently designed an AI-integrated API security system applying enterprise-grade security patterns
+- 🛡️ Applied all OWASP Top 10 security vulnerabilities in real-world project implementations, demonstrating a security-first development mindset
+- 🐳 Built complete backend systems from architecture design to deployment using Docker containerization
+- 🔗 Gained cross-stack proficiency (backend, database, AI, frontend) enabling end-to-end feature delivery
 
 ---
 
-## 📫 Let's Connect
-
-I'm actively looking for **Java Backend / Security Engineer** roles at product startups.
-If you're building something in **fintech, API security, or SaaS** — let's talk!
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/akilan1">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:akilan9042@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=akilan590&show_icons=true" alt="Akilan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilan590&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
+### 📫 Let's Connect
+
 <p align="center">
-  <i>⭐ If you find my projects useful, give them a star — it really helps!</i>
+  <a href="https://github.com/akilan590"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:akilan9042@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate.</i></p>
